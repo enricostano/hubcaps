@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AuthenticatedUser","Information about current authenticated user"],["Contributors",""],["User","User information"],["Users","Query user information"]]});
